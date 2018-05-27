@@ -1,0 +1,6 @@
+---
+id: mocks_M5Logic_M5LogicMock6
+title: M5LogicMock6
+---
+
+<div class="contract-doc"><div class="contract"><h2 class="contract-header"><span class="contract-kind">contract</span> M5LogicMock6</h2><p class="base-contracts"><span>is</span> <a href="token_ERC20_GDPOraclizedToken.html">GDPOraclizedToken</a></p><div class="source">Source: <a href="https://github.com/Monetary-Foundation/MonetaryCoin/blob/v1.0.0/contracts/mocks/M5Logic/M5LogicMock6.sol" target="_blank">mocks/M5Logic/M5LogicMock6.sol</a></div></div><div class="index"><h2>Index</h2><ul><li><a href="mocks_M5Logic_M5LogicMock6.html#swap">swap</a></li></ul></div><div class="reference"><h2>Reference</h2><div class="functions"><h3>Functions</h3><ul><li><div class="item function"><span id="swap" class="anchor-marker"></span><h4 class="name">swap</h4><div class="body"><code class="signature">function <strong>swap</strong><span>(uint256 _value) </span><span>public </span><span>returns  (bool) </span></code><hr/><div class="description"><p>Swap M5 tokens back to normal tokens when GDP is back to positive.</p></div><dl><dt><span class="label-parameters">Parameters:</span></dt><dd><div><code>_value</code> - The amount of M5 tokens to swap for regular tokens</div></dd><dt><span class="label-return">Returns:</span></dt><dd>true</dd></dl></div></div></li></ul></div></div></div>
