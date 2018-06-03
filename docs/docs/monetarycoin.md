@@ -23,7 +23,7 @@ Aside from standard ERC20 functionality, the token contract has these major feat
 
 * Pre-distribution of the tokens will take place via the [MCoinDistribution](distribution_MCoinDistribution.html) contract.
 
-The ERC20 standard token is based on the openzeppelin-solidity repository, the rest of the token’s functionality is custom developed and has been audited. See [MonetaryCoin Audit](https://github.com/TokenAudits/MonetaryCoin-Audit/releases/) for details.
+The ERC20 standard token is based on the openzeppelin-solidity repository, the rest of the token’s functionality is custom developed and has been audited. See [MonetaryCoin Audit](https://github.com/SagroVesk/MonetaryCoin-Audit/releases) for details.
 
 ## Installation
 
